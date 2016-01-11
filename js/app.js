@@ -3,3 +3,4 @@
  */
 var myName='yaya';
 var myAGE=12;
+var ninil;
